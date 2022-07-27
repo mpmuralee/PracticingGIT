@@ -1,10 +1,9 @@
 package com.test.git;
 
-public class TestingGIT {
+public class AnotherClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("New Changes");
 
 	}
 
